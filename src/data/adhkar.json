@@ -1,0 +1,286 @@
+{
+  "source": "Hisn al-Muslim ch. 27 (hisnmuslim.com); Qur'an text: Tanzil Uthmani",
+  "istighfar": {
+    "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+    "meaning": "I seek Allah’s forgiveness and I turn to Him in repentance.’ [one hundred times a day]",
+    "reference": "Hisn al-Muslim #22"
+  },
+  "morning": {
+    "minutes": 6,
+    "items": [
+      {
+        "id": "kursi",
+        "kind": "quran",
+        "title": "Ayat al-Kursi",
+        "reference": "Al-Baqarah 2:255",
+        "repeat": 1,
+        "preface": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "surahs": [
+          {
+            "name": "Ayat al-Kursi",
+            "bismillah": null,
+            "verses": [
+              "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ"
+            ]
+          }
+        ],
+        "meaning": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great."
+      },
+      {
+        "id": "quls",
+        "kind": "quran",
+        "title": "Al-Ikhlas · Al-Falaq · An-Nas",
+        "reference": "Surahs 112–114, three times",
+        "repeat": 3,
+        "preface": null,
+        "surahs": [
+          {
+            "name": "Al-Ikhlas",
+            "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+            "verses": [
+              "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+              "ٱللَّهُ ٱلصَّمَدُ",
+              "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+              "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ"
+            ]
+          },
+          {
+            "name": "Al-Falaq",
+            "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+            "verses": [
+              "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+              "مِن شَرِّ مَا خَلَقَ",
+              "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+              "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+              "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+            ]
+          },
+          {
+            "name": "An-Nas",
+            "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+            "verses": [
+              "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+              "مَلِكِ ٱلنَّاسِ",
+              "إِلَٰهِ ٱلنَّاسِ",
+              "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+              "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+              "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ"
+            ]
+          }
+        ],
+        "meaning": "Recite all three surahs, then tap. Do this three times."
+      },
+      {
+        "id": "hisn-2",
+        "kind": "dua",
+        "title": "The dominion belongs to Allah",
+        "reference": "Hisn al-Muslim #3",
+        "repeat": 1,
+        "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+        "meaning": "We have reached the morning and at this very time unto Allah, belongs all sovereignty, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without any partner, to Him belong all sovereignty and praise and He is over all things omnipotent. My Lord, I ask You for the good of this day and the good of what follows it and I take refuge in You from the evil of this day and the evil of what follows it . My Lord, I take refuge in You from laziness and senility. My Lord, I take refuge in You from torment in the Fire and punishment in the grave."
+      },
+      {
+        "id": "hisn-3",
+        "kind": "dua",
+        "title": "By You we live",
+        "reference": "Hisn al-Muslim #4",
+        "repeat": 1,
+        "arabic": "اللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ",
+        "meaning": "O Allah, by Your leave we have reached the morning and by Your leave we have reached the evening, by Your leave we live and die and unto You is our resurrection."
+      },
+      {
+        "id": "hisn-4",
+        "kind": "dua",
+        "title": "Sayyid al-Istighfar",
+        "reference": "Hisn al-Muslim #5",
+        "repeat": 1,
+        "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلاَّ أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+        "meaning": "O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You."
+      },
+      {
+        "id": "hisn-11",
+        "kind": "dua",
+        "title": "In the name of Allah",
+        "reference": "Hisn al-Muslim #12",
+        "repeat": 3,
+        "arabic": "بِسْمِ اللَّهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "meaning": "In the name of Allah with whose name nothing is harmed on earth nor in the heavens and He is the All-Hearing, the All-Knowing."
+      },
+      {
+        "id": "hisn-12",
+        "kind": "dua",
+        "title": "Pleased with Allah as Lord",
+        "reference": "Hisn al-Muslim #13",
+        "repeat": 3,
+        "arabic": "رَضِيتُ بِاللَّهِ رَبَّاً، وَبِالْإِسْلاَمِ دِيناً، وَبِمُحَمَّدٍ ﷺ نَبِيّاً",
+        "meaning": "I am pleased with Allah as a Lord, and Islam as a religion and Muhammad as a Prophet."
+      },
+      {
+        "id": "hisn-13",
+        "kind": "dua",
+        "title": "O Ever-Living",
+        "reference": "Hisn al-Muslim #14",
+        "repeat": 1,
+        "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ أَصْلِحْ لِي شَأْنِيَ كُلَّهُ وَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+        "meaning": "O Ever Living, O Self-Subsisting and Supporter of all, by Your mercy I seek assistance, rectify for me all of my affairs and do not leave me to myself, even for the blink of an eye."
+      },
+      {
+        "id": "hisn-20",
+        "kind": "dua",
+        "title": "Beneficial knowledge",
+        "reference": "Hisn al-Muslim #21",
+        "repeat": 1,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً، وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً",
+        "meaning": "O Allah, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable."
+      },
+      {
+        "id": "hisn-16",
+        "kind": "dua",
+        "title": "SubhanAllah wa bihamdihi",
+        "reference": "Hisn al-Muslim #17",
+        "repeat": 100,
+        "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+        "meaning": "How perfect Allah is and I praise Him."
+      }
+    ]
+  },
+  "evening": {
+    "minutes": 6,
+    "items": [
+      {
+        "id": "kursi",
+        "kind": "quran",
+        "title": "Ayat al-Kursi",
+        "reference": "Al-Baqarah 2:255",
+        "repeat": 1,
+        "preface": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "surahs": [
+          {
+            "name": "Ayat al-Kursi",
+            "bismillah": null,
+            "verses": [
+              "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ"
+            ]
+          }
+        ],
+        "meaning": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great."
+      },
+      {
+        "id": "quls",
+        "kind": "quran",
+        "title": "Al-Ikhlas · Al-Falaq · An-Nas",
+        "reference": "Surahs 112–114, three times",
+        "repeat": 3,
+        "preface": null,
+        "surahs": [
+          {
+            "name": "Al-Ikhlas",
+            "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+            "verses": [
+              "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+              "ٱللَّهُ ٱلصَّمَدُ",
+              "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+              "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ"
+            ]
+          },
+          {
+            "name": "Al-Falaq",
+            "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+            "verses": [
+              "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+              "مِن شَرِّ مَا خَلَقَ",
+              "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+              "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+              "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+            ]
+          },
+          {
+            "name": "An-Nas",
+            "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+            "verses": [
+              "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+              "مَلِكِ ٱلنَّاسِ",
+              "إِلَٰهِ ٱلنَّاسِ",
+              "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+              "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+              "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ"
+            ]
+          }
+        ],
+        "meaning": "Recite all three surahs, then tap. Do this three times."
+      },
+      {
+        "id": "hisn-2",
+        "kind": "dua",
+        "title": "The dominion belongs to Allah",
+        "reference": "Hisn al-Muslim #3",
+        "repeat": 1,
+        "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+        "meaning": "We have reached the evening and at this very time unto Allah, belongs all sovereignty, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without any partner, to Him belong all sovereignty and praise and He is over all things omnipotent. My Lord, I ask You for the good of this night and the good of what follows it and I take refuge in You from the evil of this night and the evil of what follows it . My Lord, I take refuge in You from laziness and senility. My Lord, I take refuge in You from torment in the Fire and punishment in the grave."
+      },
+      {
+        "id": "hisn-3",
+        "kind": "dua",
+        "title": "By You we live",
+        "reference": "Hisn al-Muslim #4",
+        "repeat": 1,
+        "arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ",
+        "meaning": "O Allah, by Your leave we have reached the evening and by Your leave we have reached the morning, by Your leave we live and die and unto You is our return."
+      },
+      {
+        "id": "hisn-4",
+        "kind": "dua",
+        "title": "Sayyid al-Istighfar",
+        "reference": "Hisn al-Muslim #5",
+        "repeat": 1,
+        "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلاَّ أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+        "meaning": "O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You."
+      },
+      {
+        "id": "hisn-11",
+        "kind": "dua",
+        "title": "In the name of Allah",
+        "reference": "Hisn al-Muslim #12",
+        "repeat": 3,
+        "arabic": "بِسْمِ اللَّهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "meaning": "In the name of Allah with whose name nothing is harmed on earth nor in the heavens and He is the All-Hearing, the All-Knowing."
+      },
+      {
+        "id": "hisn-12",
+        "kind": "dua",
+        "title": "Pleased with Allah as Lord",
+        "reference": "Hisn al-Muslim #13",
+        "repeat": 3,
+        "arabic": "رَضِيتُ بِاللَّهِ رَبَّاً، وَبِالْإِسْلاَمِ دِيناً، وَبِمُحَمَّدٍ ﷺ نَبِيّاً",
+        "meaning": "I am pleased with Allah as a Lord, and Islam as a religion and Muhammad as a Prophet."
+      },
+      {
+        "id": "hisn-13",
+        "kind": "dua",
+        "title": "O Ever-Living",
+        "reference": "Hisn al-Muslim #14",
+        "repeat": 1,
+        "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ أَصْلِحْ لِي شَأْنِيَ كُلَّهُ وَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+        "meaning": "O Ever Living, O Self-Subsisting and Supporter of all, by Your mercy I seek assistance, rectify for me all of my affairs and do not leave me to myself, even for the blink of an eye."
+      },
+      {
+        "id": "hisn-22",
+        "kind": "dua",
+        "title": "Allah's perfect words",
+        "reference": "Hisn al-Muslim #23",
+        "repeat": 3,
+        "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "meaning": "I take refuge in Allah’s perfect words from the evil He has created."
+      },
+      {
+        "id": "hisn-16",
+        "kind": "dua",
+        "title": "SubhanAllah wa bihamdihi",
+        "reference": "Hisn al-Muslim #17",
+        "repeat": 100,
+        "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+        "meaning": "How perfect Allah is and I praise Him."
+      }
+    ]
+  }
+}
